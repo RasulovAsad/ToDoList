@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tu1spghy7\\source\\repos\\ToDoList2\\ToDoList2\\ToDoList2.csproj": {}
+    "C:\\Users\\tu1spghy7\\source\\repos\\ToDoListApp\\ToDoList2\\ToDoList2\\ToDoList2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tu1spghy7\\source\\repos\\ToDoList2\\ToDoList2\\ToDoList2.csproj": {
+    "C:\\Users\\tu1spghy7\\source\\repos\\ToDoListApp\\ToDoList2\\ToDoList2\\ToDoList2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoList2\\ToDoList2\\ToDoList2.csproj",
+        "projectUniqueName": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoListApp\\ToDoList2\\ToDoList2\\ToDoList2.csproj",
         "projectName": "ToDoList2",
-        "projectPath": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoList2\\ToDoList2\\ToDoList2.csproj",
+        "projectPath": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoListApp\\ToDoList2\\ToDoList2\\ToDoList2.csproj",
         "packagesPath": "C:\\Users\\tu1spghy7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoList2\\ToDoList2\\obj\\",
+        "outputPath": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoListApp\\ToDoList2\\ToDoList2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

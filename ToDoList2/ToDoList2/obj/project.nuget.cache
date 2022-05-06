@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2SVN1+7087/logEXjnCNVYzTTlq0xsLVcGdSzEjOTpIgBpN/L5t0X5JWzbTGOWXJTMc2UOxkeKSjd+fnyFBRQ==",
+  "dgSpecHash": "3scNyVNKVEz+SHIuxX54iHkZh/XoN+OVAduoT2YycDksAb3piCnwTng1svW4SwjvhJvXaKvvgTPBtZPpOjwE+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoList2\\ToDoList2\\ToDoList2.csproj",
+  "projectFilePath": "C:\\Users\\tu1spghy7\\source\\repos\\ToDoListApp\\ToDoList2\\ToDoList2\\ToDoList2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tu1spghy7\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.18\\microsoft.aspnetcore.cryptography.internal.3.1.18.nupkg.sha512",
     "C:\\Users\\tu1spghy7\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.18\\microsoft.aspnetcore.cryptography.keyderivation.3.1.18.nupkg.sha512",
